@@ -10,7 +10,7 @@ package eva3_propiedades_arreglos;
  *
  * @author invitado
  */
-public class Eva3_propiedades_arreglos {
+public class Eva3_5_propiedades_arreglos {
 
     /**
      * @param args the command line arguments
